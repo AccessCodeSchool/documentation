@@ -4,7 +4,7 @@
 
 `0. Vous devez posséder un compte sur l'outil de suivi ACS` [Suivi Access Code School](https://suivi.accesscodeschool.fr)
 
-`1. Rendez-vous dans le menu "Apprenants", puis cliquez sur "+ Ajouter apprenant"`
+`1. Après s'être connecté à l'outil de suivi, rendez-vous dans le menu "Apprenants", puis cliquez sur "+ Ajouter apprenant"`
 
 ![Image Ajouter un apprenant](./capture_aj_apprenant.png)
 
